@@ -1,0 +1,7 @@
+{
+  "name": "website-rework",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
